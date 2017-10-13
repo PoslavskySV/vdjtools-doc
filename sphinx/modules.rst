@@ -129,7 +129,7 @@ be disabled by running VDJtools with ``discard_scripts`` argument prior
 to routine name.
 
 By default, all graphical output is generated in PDF format, to generate 
-PNG images use ````--plot-type png`` option.
+PNG images use ``--plot-type png`` option.
 
 When running routines that output clonotype tables consider the following:
 
